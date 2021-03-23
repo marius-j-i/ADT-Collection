@@ -1,0 +1,14 @@
+# Time for putting number of elements into hashmap for ChainTree-implementation 
+# Elements, Time 
+128, 47
+256, 69
+512, 133
+1024, 265
+2048, 530
+4096, 1291
+8192, 3264
+16384, 7961
+32768, 19578
+65536, 91864
+131072, 567634
+262144, 5600901

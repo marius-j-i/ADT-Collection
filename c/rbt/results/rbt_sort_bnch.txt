@@ -1,0 +1,16 @@
+# RBT Sort Benchmarks 
+# Elements, Time (microsec. average for 10 trials per set of elements) 
+1024, 76
+2048, 131
+4096, 292
+8192, 618
+16384, 1283
+32768, 2861
+65536, 6471
+131072, 14238
+262144, 31399
+524288, 69188
+1048576, 151465
+
+# Overall average for each set of elements with 10 trials: 
+27802

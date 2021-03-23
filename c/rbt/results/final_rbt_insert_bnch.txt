@@ -1,0 +1,16 @@
+# RBT Insert Benchmarks 
+# Elements, Time (microsec. average for 10 trials per set of elements) 
+1024, 347
+2048, 730
+4096, 1466
+8192, 3158
+16384, 7080
+32768, 15480
+65536, 32859
+131072, 72099
+262144, 152934
+524288, 328872
+1048576, 699637
+
+# Overall average for each set of elements with 10 trials: 
+131466

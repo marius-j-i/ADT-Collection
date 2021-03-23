@@ -1,0 +1,16 @@
+# RBT Iterator Benchmarks 
+# Elements, Time (microsec. average for 10 trials per set of elements) 
+1024, 8
+2048, 15
+4096, 28
+8192, 60
+16384, 112
+32768, 169
+65536, 340
+131072, 856
+262144, 1776
+524288, 3651
+1048576, 7491
+
+# Overall average for each set of elements with 10 trials: 
+1450

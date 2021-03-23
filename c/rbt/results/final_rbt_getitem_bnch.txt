@@ -1,0 +1,16 @@
+# RBT Get-Item Benchmarks 
+# Elements, Time (microsec. average for 10 trials per set of elements) 
+1024, 4
+2048, 10
+4096, 23
+8192, 51
+16384, 111
+32768, 136
+65536, 277
+131072, 572
+262144, 1329
+524288, 2894
+1048576, 6057
+
+# Overall average for each set of elements with 10 trials: 
+1146

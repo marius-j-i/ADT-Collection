@@ -1,0 +1,16 @@
+# AVL Iterator Benchmarks 
+# Elements, Time (microsec. on average of 10 trials with corresponding nr. of elements) 
+1024, 5
+2048, 9
+4096, 20
+8192, 51
+16384, 97
+32768, 157
+65536, 357
+131072, 871
+262144, 1869
+524288, 3688
+1048576, 7619
+
+# Overall average of 10 trials for each set of elements: 
+1474 

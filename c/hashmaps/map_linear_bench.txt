@@ -1,0 +1,16 @@
+# Time for putting number of elements into hashmap for LinearProbing-implementation 
+# Elements, Time 
+128, 20
+256, 18
+512, 34
+1024, 65
+2048, 324
+4096, 1127
+8192, 1995
+16384, 4772
+32768, 10406
+65536, 21750
+131072, 60058
+262144, 140462
+524288, 411825
+1048576, 1325781

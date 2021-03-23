@@ -1,0 +1,16 @@
+# Time for putting number of elements into hashmap for Chained-implementation 
+# Elements, Time 
+128, 12
+256, 21
+512, 35
+1024, 68
+2048, 109
+4096, 274
+8192, 534
+16384, 1342
+32768, 2720
+65536, 7275
+131072, 22619
+262144, 90243
+524288, 380450
+1048576, 1388450

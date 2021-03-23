@@ -1,0 +1,16 @@
+# AVL Sort Benchmarks 
+# Elements, Time (microsec. on average of 10 trials with corresponding nr. of elements) 
+1024, 58
+2048, 126
+4096, 263
+8192, 588
+16384, 1317
+32768, 2975
+65536, 6602
+131072, 14987
+262144, 32649
+524288, 70851
+1048576, 159586
+
+# Overall average of 10 trials for each set of elements: 
+29000 

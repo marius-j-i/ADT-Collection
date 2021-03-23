@@ -1,0 +1,16 @@
+# RBT Remove Benchmarks 
+# Elements, Time (microsec. average for 10 trials per set of elements) 
+1024, 271
+2048, 537
+4096, 1003
+8192, 2018
+16384, 4376
+32768, 9148
+65536, 18841
+131072, 38225
+262144, 78149
+524288, 159995
+1048576, 326960
+
+# Overall average for each set of elements with 10 trials: 
+63952
